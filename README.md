@@ -57,3 +57,4 @@ docker run -d --name facer \
 
 or use the release.sh script with your own docker hub username and image name:
 - `./release.sh`
+Face recognition 
